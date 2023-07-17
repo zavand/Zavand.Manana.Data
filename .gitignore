@@ -1,1 +1,6 @@
 # Zavand.Manana.Data
+
+.idea/
+obj/
+bin/
+*.DotSettings.user
